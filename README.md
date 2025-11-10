@@ -26,4 +26,3 @@
 - Fácil expandão para novos comandos
 
 #### Referências
-https://www.tensorflow.org/guide/core/mlp_core
