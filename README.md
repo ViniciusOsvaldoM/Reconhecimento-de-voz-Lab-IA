@@ -38,7 +38,3 @@
 
 
 ![Treinamento2](bancodedados/treinamento2.png)
-
-
-
-#### Referências
